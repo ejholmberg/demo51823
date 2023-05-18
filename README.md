@@ -1,6 +1,7 @@
 # demo51823
 Hello world
-Adding...a
-Third line
-Added fifth line in the second computer
-Add the sixth line in the local computer
+Adding...a. 
+Third line. 
+Added fifth line in the second computer. 
+Add the sixth line in the local computer. 
+This is the seventh line in the web
